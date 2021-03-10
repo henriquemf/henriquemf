@@ -10,10 +10,9 @@
 - 🎯 Hobbies: I really love playing videogames and listening to music, all the time, really! 🎮🎼
 
 ### 📭 How to contact me:
- - 📱 Instagram: @hfrezzatti_m
- - Twitter: @hfrezzatti
- - Github: henriquemf
- - Email: hfrezzattim@gmail.com
+ - 📱 Instagram: [@hfrezzatti_m](https://www.instagram.com/hfrezzatti_m/)
+ - 🐥Twitter: [@hfrezzatti](https://twitter.com/hfrezzatti)
+ - 🎩Email: hfrezzattim@gmail.com
 ### 🔎 More about languages that i use:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
