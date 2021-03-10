@@ -16,5 +16,3 @@
 ### 🔎 More about languages that i use:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-https://img.shields.io/badge/<Link>-<sim>-<green>
