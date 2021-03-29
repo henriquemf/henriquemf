@@ -13,6 +13,6 @@
  - 📱 Instagram: [@hfrezzatti_m](https://www.instagram.com/hfrezzatti_m/)
  - 🐥Twitter: [@hfrezzatti](https://twitter.com/hfrezzatti)
  - 🎩Email: hfrezzattim@gmail.com
-### 🔎 More about languages that i use:
+### 🔎 More about languages that I use:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
