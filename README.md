@@ -24,4 +24,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquemf&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/henriquemf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemf&theme=react&show_icons=true" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemf&theme=react&layout=compact" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquemf&theme=react" style"max-width: 100%;" />
+</a>
