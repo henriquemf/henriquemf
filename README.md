@@ -17,23 +17,13 @@
 
 - 💻 I’m currently learning more about programming and new languages! 
 - 📕 I'm a student on Insper in Brazil
-- 😄 Pronouns: Him/His
 - ⚡ Random fact: I really love playing the piano 🎶🎹
 - 🎯 Hobbies: I really love playing videogames and listening to music! 🎮🎼
 
 ## 🧑‍💻 All my Tech skills:
-- 🌐 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white&labelColor=purple) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=white&labelColor=purple) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white&labelColor=purple) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=white&labelColor=purple) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=white&labelColor=purple) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white&labelColor=purple) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=4bc425&logoColor=white&labelColor=purple) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=4bc425&logoColor=white&labelColor=purple) ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=AssemblyScript&logoColor=white&labelColor=purple) ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=white&labelColor=purple)
+- 🌐 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white&labelColor=purple) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=4bc425&logoColor=white&labelColor=purple) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=4bc425&logoColor=white&labelColor=purple) ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=c-sharp&logoColor=4bc425&logoColor=white&labelColor=purple) ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform&logoColor=4bc425&logoColor=white&labelColor=purple)
 - 🧰 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=white&labelColor=red)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white&labelColor=red)
 - 📁![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white&labelColor=informational) ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=white&labelColor=informational) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker&logoColor=white&labelColor=informational)
-- 🎥 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop&logoColor=white&labelColor=success) ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects&logoColor=white&labelColor=success)
-- ✍️ ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visualstudiocode&logoColor=white&labelColor=yellow) ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipseide&logoColor=white&labelColor=yellow) ![Microship Studio](https://img.shields.io/badge/-Microship%20Studio-333333?style=flat&logo=arm&logoColor=white&labelColor=yellow)
-
-## 🔎 Languages that I use the most:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/henriquemf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemf&show_icons=true&theme=radical" style"max-width: 100%;" /><br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquemf&theme=react&theme=radical" style"max-width: 100%;" />
-</a>
+- ✍️ ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visualstudiocode&logoColor=white&labelColor=yellow)
+- :basecamp: ![Wazuh](https://img.shields.io/badge/-Wazuh-333333?style=flat&logo=wazuh&logoColor=white&labelColor=red) ![Zabbix](https://img.shields.io/badge/-Zabbix-333333?style=flat&logo=zabbix&logoColor=white&labelColor=red)
