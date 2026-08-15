@@ -13,7 +13,6 @@
 <a href="https://www.linkedin.com/in/hfrezzatti"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="26"></a>
 <a href="https://www.instagram.com/hfrezzatti_m/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="26"></a>
 <a href="mailto:hmfrezzatti@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="26"></a>
-<a href="https://github.com/henriquemf"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="26"></a>
 
 <br><br>
 
