@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:c77dff&height=260&section=header&text=Henrique%20Martinelli%20Frezzatti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%28Pleno%29%20%E2%80%A2%20AWS%20%E2%80%A2%20Azure%20%E2%80%A2%20Terraform%20%E2%80%A2%20Kubernetes&descAlignY=58&descSize=17&descColor=E9D8FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:c77dff&height=260&section=header&text=Henrique%20Martinelli%20Frezzatti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%28Pleno%29%20%E2%80%A2%20AWS%20%E2%80%A2%20Terraform%20%E2%80%A2%20Kubernetes&descAlignY=58&descSize=17&descColor=E9D8FD" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=C77DFF&center=true&vCenter=true&width=750&height=50&lines=DevOps%20Engineer%20%28Pleno%29%3BAWS%20Expert%3A%20EC2%2C%20ECS%20and%20Lambda%3BMulti-Cloud%3A%20AWS%20and%20Azure%3BIaC%3A%20Terraform%20and%20CloudFormation%3BData%20Lake%3A%20Athena%20and%20Glue%20on%20AWS%3BCybersecurity-first%20mindset" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=C77DFF&center=true&vCenter=true&width=750&height=50&lines=DevOps%20Engineer%20%28Pleno%29%3BAWS%20Expert%3A%20EC2%2C%20ECS%20and%20Lambda%3BIaC%3A%20Terraform%20and%20CloudFormation%3BData%20Lake%3A%20Athena%20and%20Glue%20on%20AWS%3BCybersecurity-first%20mindset" alt="Typing SVG"/>
 
 <br>
 
@@ -25,7 +25,7 @@
 ## 📌 Sobre mim
 
 - 🚀 **DevOps Engineer (Pleno)**, focado em infraestrutura em nuvem, automação e confiabilidade end-to-end
-- ☁️ **Expertise em AWS** — comecei em EC2, evoluí para ECS e hoje trabalho fortemente com Lambda/serverless; também tenho conhecimento em **Azure** e em arquiteturas **multi-tenant**
+- ☁️ **Expertise em AWS** — comecei em EC2, evoluí para ECS e hoje trabalho fortemente com Lambda/serverless; também tenho conhecimento em arquiteturas **multi-tenant**
 - 🧱 **Infraestrutura como Código** com Terraform e AWS CloudFormation
 - 📊 Observabilidade no dia a dia com **CloudWatch** e **New Relic**, e dashboards em **Grafana**
 - 🗂️ **Data & Analytics na AWS**: Athena, Glue e construção de Data Lakes
