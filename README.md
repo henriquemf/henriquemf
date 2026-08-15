@@ -13,14 +13,6 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henriquemf&theme=github-dark-dimmed&custom_title=Henrique%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=hfrezzatti123&count=5">
-</p>
-
 ## 🧑‍💻 All my Tech skills:
 - 🌐 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white&labelColor=purple) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=4bc425&logoColor=white&labelColor=purple) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=4bc425&logoColor=white&labelColor=purple) ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=c-sharp&logoColor=4bc425&logoColor=white&labelColor=purple) ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform&logoColor=4bc425&logoColor=white&labelColor=purple)
 - 🧰 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=white&labelColor=red)
