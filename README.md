@@ -8,8 +8,7 @@
 
 ## 📌 More about myself:
 
-- 💻 I'm a DevOps/DevSecOps/SRE lover, currently learning more about Kubernetes and CI/CD frameworks!
-- 📕 I'm a Data Engineer at EON 2Life in Brazil, in love with what I do! 
+- 📕 I'm a DevOps Engineer at EON 2Life in Brazil, in love with what I do! 
 - 🎯 Hobbies: I love playing the piano, videogames and my cat named Blue :)
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henriquemf&theme=github-dark-dimmed&custom_title=Henrique%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
