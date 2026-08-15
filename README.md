@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1f6feb&height=260&section=header&text=Henrique%20Martinelli%20Frezzatti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%28Pleno%29%20%E2%80%A2%20AWS%20%E2%80%A2%20Azure%20%E2%80%A2%20Terraform%20%E2%80%A2%20Kubernetes&descAlignY=58&descSize=17&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:c77dff&height=260&section=header&text=Henrique%20Martinelli%20Frezzatti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%28Pleno%29%20%E2%80%A2%20AWS%20%E2%80%A2%20Azure%20%E2%80%A2%20Terraform%20%E2%80%A2%20Kubernetes&descAlignY=58&descSize=17&descColor=E9D8FD" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=DevOps%20Engineer%20%28Pleno%29%3BAWS%20Expert%3A%20EC2%2C%20ECS%20and%20Lambda%3BMulti-Cloud%3A%20AWS%20and%20Azure%3BIaC%3A%20Terraform%20and%20CloudFormation%3BData%20Lake%3A%20Athena%20and%20Glue%20on%20AWS%3BCybersecurity-first%20mindset" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=C77DFF&center=true&vCenter=true&width=750&height=50&lines=DevOps%20Engineer%20%28Pleno%29%3BAWS%20Expert%3A%20EC2%2C%20ECS%20and%20Lambda%3BMulti-Cloud%3A%20AWS%20and%20Azure%3BIaC%3A%20Terraform%20and%20CloudFormation%3BData%20Lake%3A%20Athena%20and%20Glue%20on%20AWS%3BCybersecurity-first%20mindset" alt="Typing SVG"/>
 
 <br>
 
@@ -13,10 +13,11 @@
 <a href="https://www.linkedin.com/in/hfrezzatti"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="26"></a>
 <a href="https://www.instagram.com/hfrezzatti_m/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="26"></a>
 <a href="mailto:hmfrezzatti@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="26"></a>
+<a href="https://github.com/henriquemf"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="26"></a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=henriquemf&color=1F6FEB&style=for-the-badge&label=PROFILE%20VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=henriquemf&color=6A0DAD&style=for-the-badge&label=PROFILE%20VIEWS)
 
 </div>
 
@@ -29,7 +30,7 @@
 - 🧱 **Infraestrutura como Código** com Terraform e AWS CloudFormation
 - 📊 Observabilidade no dia a dia com **CloudWatch** e **New Relic**, e dashboards em **Grafana**
 - 🗂️ **Data & Analytics na AWS**: Athena, Glue e construção de Data Lakes
-- 🔐 Sempre com **Cybersecurity** em mente: Wazuh, Zabbix, AWS Inspector e GuardDuty para monitoramento de segurança
+- 🔐 Sempre com **Cybersecurity** em mente — uso Wazuh e Zabbix para monitoramento de segurança
 - 💻 Expertise real em **Python, C, C++ e Bash**
 - 🛠️ Ferramentas do dia a dia: **VS Code, GitHub, Cursor e Claude Code**
 - 🎯 Hobbies: toco piano, jogo videogame e tenho um gato chamado Blue :)
@@ -93,6 +94,8 @@
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-%2300A3E0.svg?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-%23D40000.svg?style=for-the-badge&logo=zabbix&logoColor=white)
+![AWS Inspector](https://img.shields.io/badge/AWS%20Inspector-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon GuardDuty](https://img.shields.io/badge/Amazon%20GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </details>
 
@@ -135,12 +138,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=henriquemf&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemf&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=henriquemf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=henriquemf&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C77DFF"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquemf&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=henriquemf&theme=dark&hide_border=true&background=0D1117&ring=C77DFF&fire=9D4EDD&currStreakLabel=C77DFF"/>
 </p>
 
 <p align="center">
@@ -150,5 +153,6 @@
 </p>
 
 <br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,50:6a0dad,100:1a0033&height=120&section=footer" width="100%"/>
