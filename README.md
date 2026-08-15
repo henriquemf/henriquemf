@@ -1,10 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=220&section=header&text=Henrique%20Martinelli%20Frezzatti&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20(Pleno)%20%7C%20AWS%20%E2%80%A2%20CloudFormation%20%E2%80%A2%20Terraform%20%E2%80%A2%20CI%2FCD%20%E2%80%A2%20SRE&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1f6feb&height=260&section=header&text=Henrique%20Martinelli%20Frezzatti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%28Pleno%29%20%E2%80%A2%20AWS%20%E2%80%A2%20Azure%20%E2%80%A2%20Terraform%20%E2%80%A2%20Kubernetes&descAlignY=58&descSize=17&descColor=C9D1D9" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=DevOps%20Engineer%20%28Pleno%29%3BAWS%20Expert%3A%20EC2%2C%20ECS%20and%20Lambda%3BMulti-Cloud%3A%20AWS%20and%20Azure%3BIaC%3A%20Terraform%20and%20CloudFormation%3BData%20Lake%3A%20Athena%20and%20Glue%20on%20AWS%3BCybersecurity-first%20mindset" alt="Typing SVG"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,linux,mysql,py,c,cpp,bash,vscode&theme=dark" alt="skill icons"/>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/hfrezzatti"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="26"></a>
 <a href="https://www.instagram.com/hfrezzatti_m/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="26"></a>
 <a href="mailto:hmfrezzatti@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="26"></a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=henriquemf&color=1F6FEB&style=for-the-badge&label=PROFILE%20VIEWS)
 
 </div>
 
@@ -12,10 +24,14 @@
 
 ## 📌 Sobre mim
 
-- 🚀 **DevOps Engineer (Pleno)**, atuando com infraestrutura em nuvem, automação e observabilidade end-to-end
-- ☁️ Hands-on com **AWS** (ECS/Fargate, Lambda, EventBridge, EC2, SQS), **Terraform**, **Docker** e **CloudFormation** em produção
-- 🔄 Apaixonado por **CI/CD**, cultura **DevSecOps** e práticas de **SRE**: sempre buscando reduzir toil e aumentar confiabilidade
-- 📊 Experiência com observabilidade e monitoramento (**CloudWatch**, **NewRelic**, **Grafana**) e segurança (**Wazuh**, **Zabbix**)
+- 🚀 **DevOps Engineer (Pleno)**, focado em infraestrutura em nuvem, automação e confiabilidade end-to-end
+- ☁️ **Expertise em AWS** — comecei em EC2, evoluí para ECS e hoje trabalho fortemente com Lambda/serverless; também tenho conhecimento em **Azure** e em arquiteturas **multi-tenant**
+- 🧱 **Infraestrutura como Código** com Terraform e AWS CloudFormation
+- 📊 Observabilidade no dia a dia com **CloudWatch** e **New Relic**, e dashboards em **Grafana**
+- 🗂️ **Data & Analytics na AWS**: Athena, Glue e construção de Data Lakes
+- 🔐 Sempre com **Cybersecurity** em mente: Wazuh, Zabbix, AWS Inspector e GuardDuty para monitoramento de segurança
+- 💻 Expertise real em **Python, C, C++ e Bash**
+- 🛠️ Ferramentas do dia a dia: **VS Code, GitHub, Cursor e Claude Code**
 - 🎯 Hobbies: toco piano, jogo videogame e tenho um gato chamado Blue :)
 
 <br>
@@ -23,13 +39,23 @@
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>☁️ Cloud & Infraestrutura como Código</b></summary>
+<summary><b>☁️ Cloud & Multi-Cloud</b></summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧱 Infraestrutura como Código</b></summary>
+<br>
+
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </details>
 
@@ -52,36 +78,55 @@
 </details>
 
 <details open>
-<summary><b>📊 Observabilidade & Segurança</b></summary>
+<summary><b>📊 Observabilidade & Monitoramento</b></summary>
 <br>
 
-![CloudWatch](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=cloudwatch&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔐 Segurança</b></summary>
+<br>
+
 ![Wazuh](https://img.shields.io/badge/Wazuh-%2300A3E0.svg?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-%23D40000.svg?style=for-the-badge&logo=zabbix&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>💻 Linguagens & Scripting</b></summary>
+<summary><b>🗂️ Data & Analytics (AWS)</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Data Lake](https://img.shields.io/badge/Data%20Lake-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🗄️ Bancos de Dados & Ferramentas</b></summary>
+<summary><b>💻 Linguagens</b></summary>
 <br>
 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🖥️ Editores & Ferramentas</b></summary>
+<br>
+
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </details>
 
@@ -106,4 +151,4 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
